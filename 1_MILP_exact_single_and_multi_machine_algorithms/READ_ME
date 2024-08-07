@@ -1,0 +1,2 @@
+This folder contains zip folders with header functions needed to run the main files (Functions), output from multi-machine code including pickle files for trial and graphs generated (Output), and an archive of old files (single_multi_archive). 
+Two main files also exist: 1_Main_Single-Machine Flowshop_create_pickle_enhanced for single machine runs and 1a_Main_Multi-Machine Flowshop for multi-machine code. Both use Mixed-Integer Linear Programming to solve, and the output is saved for testing and comparison.
